@@ -8,4 +8,5 @@
 |    class-04 | [Controlled Component](read/read4.md)                          |
 |    class-05 | [form  React](read/read5.md)                                   |
 |    class-06 | [node.js  ](read/read6.md)                                     |
+|    class-07 | [REST.js  ](read/read7.md)                                     |
 
